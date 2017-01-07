@@ -11,7 +11,7 @@ Yay! We're the frontend and web community settled in the sunny town of Alicante.
 ### Channels
 - [@AlicanteFront](https://twitter.com/AlicanteFront)
 - [Meetup](https://www.meetup.com/Alicante-Frontend/)
-- [Slack](https://alicante-frontend.slack.com)
+- [Slack](https://alicantefrontend.herokuapp.com/)
 - [Trello](https://goo.gl/LYEX5D)
 
 ### Organizers
