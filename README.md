@@ -2,11 +2,17 @@
 
 Yay! We're the frontend and web community settled in the sunny town of Alicante. Here you can find all materials used in the Meetup group.
 
+Wanna give a talk, workshop or event in general? Join us! We're here to help you!
+
 ### Talks
+
+*January 2017*
+- [Flavio Corpa(@FlavioCorpa) - Functional Programming with Javascript](https://goo.gl/Gstn4T)
+- [Alex J(@alexjoverm) - Intro to Functional Reactive Programming with RxJS](https://alexjoverm.github.io/RxJS-FRP-talk)
 
 *December 2016*
 - [Alicante Frontend Inauguration](https://docs.google.com/presentation/d/1vccM0sKnBsm51ec2KhU7PDUvsfg0M02OzNpAJd-AUvc/edit?usp=sharing)
-- [State of Frontend](https://drive.google.com/open?id=1yaicsHA8YZNP5_zRnwXVH3CCb-wzghRDYj_HdA_QkE0)
+- [Alex J(@alexjoverm) - State of Frontend](https://drive.google.com/open?id=1yaicsHA8YZNP5_zRnwXVH3CCb-wzghRDYj_HdA_QkE0)
 
 ### Channels
 - [@AlicanteFront](https://twitter.com/AlicanteFront)
