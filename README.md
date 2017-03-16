@@ -6,13 +6,16 @@ Wanna give a talk, workshop or event in general? Join us! We're here to help you
 
 ### Talks
 
+*February 2017*
+- [Ciro Ivan (@k1r0s) - Aspect Oriented Programming in Javascript](https://k1r0s.github.io/aop-intro)
+
 *January 2017*
-- [Flavio Corpa(@FlavioCorpa) - Functional Programming with Javascript](https://goo.gl/Gstn4T)
-- [Alex J(@alexjoverm) - Intro to Functional Reactive Programming with RxJS](https://alexjoverm.github.io/RxJS-FRP-talk)
+- [Flavio Corpa (@FlavioCorpa) - Functional Programming with Javascript](https://goo.gl/Gstn4T)
+- [Alex J (@alexjoverm) - Intro to Functional Reactive Programming with RxJS](https://alexjoverm.github.io/RxJS-FRP-talk)
 
 *December 2016*
 - [Alicante Frontend Inauguration](https://docs.google.com/presentation/d/1vccM0sKnBsm51ec2KhU7PDUvsfg0M02OzNpAJd-AUvc/edit?usp=sharing)
-- [Alex J(@alexjoverm) - State of Frontend](https://drive.google.com/open?id=1yaicsHA8YZNP5_zRnwXVH3CCb-wzghRDYj_HdA_QkE0)
+- [Alex J (@alexjoverm) - State of Frontend](https://drive.google.com/open?id=1yaicsHA8YZNP5_zRnwXVH3CCb-wzghRDYj_HdA_QkE0)
 
 ### Channels
 - [@AlicanteFront](https://twitter.com/AlicanteFront)
