@@ -6,6 +6,9 @@ Wanna give a talk, workshop or event in general? Join us! We're here to help you
 
 ### Talks
 
+*September 2017*
+- [José M. Pérez (@jmperezperez) - Cargando imágenes de una forma óptima](https://slides.com/jmperez/pir-alicante-frontend)
+
 *March 2017*
 - [Kikobeats (@kikobeats) - Case Study: Windtoday.co](https://docs.google.com/presentation/d/16FdqYGWwN0u0B37EaJeeVYMNK6qNXFhUX2Ol0hJ9k40/edit?usp=sharing)
 
