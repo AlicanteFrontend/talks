@@ -6,6 +6,9 @@ Wanna give a talk, workshop or event in general? Join us! We're here to help you
 
 ### Talks
 
+*October 2017*
+- [Flavio Corpa (@FlavioCorpa) - Introducción a React.js](https://speakerdeck.com/kutyel/introduccion-a-react-dot-js)
+
 *March 2017*
 - [Kikobeats (@kikobeats) - Case Study: Windtoday.co](https://docs.google.com/presentation/d/16FdqYGWwN0u0B37EaJeeVYMNK6qNXFhUX2Ol0hJ9k40/edit?usp=sharing)
 
