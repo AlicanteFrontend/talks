@@ -6,6 +6,8 @@ Wanna give a talk, workshop or event in general? Join us! We're here to help you
 
 ### Talks
 
+*November 2017*
+- [Laura Bonmatí (@LauraBonmati) - ¿Qué debo mejorar en mi web?](https://docs.google.com/presentation/d/19HBr6ic0jcf0cMDTVqCzsvs2JHo3VC8Yiv9ZmEzTKP8/edit?usp=sharing)
 
 *October 2017*
 - [Flavio Corpa (@FlavioCorpa) - Introducción a React.js](https://speakerdeck.com/kutyel/introduccion-a-react-dot-js)
